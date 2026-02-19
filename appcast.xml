@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Vibe Voice</title>
+    <link>https://raw.githubusercontent.com/zach-lloyd-dev/vibevoice-releases/main/appcast.xml</link>
+    <description>Most recent changes with links to updates.</description>
+    <language>en</language>
+    <item>
+      <title>Version 1.1.0</title>
+      <description><![CDATA[
+        <h2>What's New in Vibe Voice 1.1.0</h2>
+        <ul>
+          <li>Transcript History — browse, search, copy, and delete past transcriptions (Cmd+Shift+T)</li>
+          <li>Clear All with confirmation dialog</li>
+          <li>Static timestamps on transcription entries</li>
+          <li>Improved stability and performance</li>
+        </ul>
+      ]]></description>
+      <pubDate>Wed, 19 Feb 2026 15:00:00 +0000</pubDate>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/zach-lloyd-dev/vibevoice-releases/releases/download/v1.1.0/VibeVoice-1.1.0.dmg"
+        sparkle:version="2"
+        sparkle:shortVersionString="1.1.0"
+        sparkle:edSignature="YAlXi255GUw35p+CH0snnKEgMWgqirqXQnvocTyDokMfE3+5TFF6Na7CUcs6OCqXtXaeVt+t6OyTFuROHuiyCQ=="
+        length="8922923"
+        type="application/octet-stream"
+      />
+    </item>
+  </channel>
+</rss>
