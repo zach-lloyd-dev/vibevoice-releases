@@ -6,6 +6,28 @@
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
     <item>
+      <title>Version 1.1.1</title>
+      <description><![CDATA[
+        <h2>What's New in Vibe Voice 1.1.1</h2>
+        <ul>
+          <li>Fix: Closing Settings while History is open no longer breaks dock behavior</li>
+          <li>Fix: Observer memory leak in window close handlers</li>
+          <li>Fix: Silent database errors now logged for debugging</li>
+          <li>Improved code quality and stability</li>
+        </ul>
+      ]]></description>
+      <pubDate>Sun, 09 Mar 2026 22:30:00 +0000</pubDate>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/zach-lloyd-dev/vibevoice/releases/download/v1.1.1/VibeVoice-1.1.1.dmg"
+        sparkle:version="3"
+        sparkle:shortVersionString="1.1.1"
+        sparkle:edSignature="IJbRasjWaaWISybzgpQOcIxrRTePGzxPIwvEfjiyg/sMeSKn36ow8v2OaIEeJ1OkXA2ru+5R2fCfxCKmAuWXDg=="
+        length="10187490"
+        type="application/octet-stream"
+      />
+    </item>
+    <item>
       <title>Version 1.1.0</title>
       <description><![CDATA[
         <h2>What's New in Vibe Voice 1.1.0</h2>
